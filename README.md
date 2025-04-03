@@ -1,3 +1,3 @@
-# ProyectosLaravel
-Proyectos realizados en el framework Laravel
-Proyectos realizados por un desarrollador recien titulado, sirve como ayuda para personas con poca experiencia y es orientativo
+Proyectos en Laravel para desarrolladores junior
+
+Repositorio con proyectos desarrollados en Laravel, ideales para quienes están comenzando en el framework. Sirve como referencia y apoyo para desarrolladores con poca experiencia, proporcionando ejemplos prácticos y orientación en buenas prácticas.
